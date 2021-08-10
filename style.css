@@ -1,0 +1,39 @@
+.ab{
+    font-family:'Vivaldi';
+    justify-content: space-between;
+    font-size: 20px;
+    font-weight: 400;
+    color:black;
+    background-color:blanchedalmond;
+    text-align: center;
+}
+body{
+    margin: 0px;
+    background-color:darkseagreen;
+}
+.abc{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 40px;
+    
+}
+.abc p,li{
+    color:darkslategray;
+}
+.abc img{
+    border: 2px solid black;
+    border-radius: 50px;
+}
+.nish {
+    border-radius: 20px;
+    background-color: #ffffff;
+    padding: 30px;
+    margin: 25px;
+    width:310px;
+    font-family:'Monotype Corsiva';
+    font-size: 25px;
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
